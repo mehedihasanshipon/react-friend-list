@@ -1,0 +1,12 @@
+.user{
+    display: flex;
+}
+.friend{
+    width: 70%;
+    margin: 40px;
+    border-right: 1px solid gray;
+    padding-right: 30px;
+}
+.cart{
+    width: 30%;
+}
